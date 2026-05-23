@@ -29,3 +29,7 @@ a.foo {
   text-decoration-color: white;
   color: white;
 }
+h2{
+    color:green;
+    font-size: 220%;
+}
