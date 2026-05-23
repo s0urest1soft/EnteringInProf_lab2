@@ -33,3 +33,9 @@ h2{
     color:green;
     font-size: 220%;
 }
+table
+{
+    td{text-align: center;}
+    width: 100%;
+    text-align: stretch;
+}
