@@ -39,3 +39,9 @@ table
     width: 100%;
     text-align: stretch;
 }
+caption
+{
+    font-family: 'Courier New', Courier, monospace;
+    font-size: 180%;
+    color: darkred;
+}
