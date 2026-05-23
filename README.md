@@ -25,6 +25,6 @@ git commit -m "Comment"
 
 **Задание 6**. Отправьте изменения на удаленный репозиторий. Если будет необходимость, настройте подключения к удаленному репозиторию.
 ```sh
-git <команда подключения к удаленному репозиторию, если это было необходимо>
-git <команда отправки изменений>
+git remote add origin https://github.com/s0urest1soft/EnteringInProf_lab2.git
+git push https://github.com/s0urest1soft/EnteringInProf_lab2.git
 ```
